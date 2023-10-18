@@ -1,0 +1,240 @@
+{
+    "girl": [
+        {
+            "id": 1,
+            "img": "https://bizweb.dktcdn.net/thumb/medium/100/488/521/themes/913255/assets/home_main_tab_head2_image_1.png?1695187373377",
+            "name": "0-3 tháng tuổi"
+        },
+        {
+            "id": 2,
+            "img": "https://bizweb.dktcdn.net/thumb/medium/100/488/521/themes/913255/assets/home_main_tab_head2_image_2.png?1695187373377",
+            "name": "3-6 tháng tuổi"
+        },
+        {
+            "id": 3,
+            "img": "https://bizweb.dktcdn.net/thumb/medium/100/488/521/themes/913255/assets/home_main_tab_head2_image_3.png?1695187373377",
+            "name": "6-9 tháng tuổi"
+        },
+        {
+            "id": 4,
+            "img": "https://bizweb.dktcdn.net/thumb/medium/100/488/521/themes/913255/assets/home_main_tab_head2_image_4.png?1695187373377",
+            "name": "9-12 tháng tuổi"
+        },
+        {
+            "id": 5,
+            "img": "https://bizweb.dktcdn.net/thumb/medium/100/488/521/themes/913255/assets/home_main_tab_head2_image_5.png?1695187373377",
+            "name": "12-18 tháng tuổi"
+        },
+        {
+            "id": 6,
+            "img": "https://bizweb.dktcdn.net/thumb/medium/100/488/521/themes/913255/assets/home_main_tab_head2_image_6.png?1695187373377",
+            "name": "18-24 tháng tuổi"
+        }
+    ],
+    "boy": [
+        {
+            "id": 1,
+            "img": "https://bizweb.dktcdn.net/thumb/medium/100/488/521/themes/913255/assets/home_main_tab_head_image_1.png?1695187373377",
+            "name": "0-3 tháng tuổi"
+        },
+        {
+            "id": 2,
+            "img": "https://bizweb.dktcdn.net/thumb/medium/100/488/521/themes/913255/assets/home_main_tab_head_image_2.png?1695187373377",
+            "name": "3-6 tháng tuổi"
+        },
+        {
+            "id": 3,
+            "img": "https://bizweb.dktcdn.net/thumb/medium/100/488/521/themes/913255/assets/home_main_tab_head_image_3.png?1695187373377",
+            "name": "6-9 tháng tuổi"
+        },
+        {
+            "id": 4,
+            "img": "https://bizweb.dktcdn.net/thumb/medium/100/488/521/themes/913255/assets/home_main_tab_head_image_4.png?1695187373377",
+            "name": "9-12 tháng tuổi"
+        },
+        {
+            "id": 5,
+            "img": "https://bizweb.dktcdn.net/thumb/medium/100/488/521/themes/913255/assets/home_main_tab_head_image_5.png?1695187373377",
+            "name": "12-18 tháng tuổi"
+        },
+        {
+            "id": 6,
+            "img": "https://bizweb.dktcdn.net/thumb/medium/100/488/521/themes/913255/assets/home_main_tab_head_image_6.png?1695187373377",
+            "name": "18-24 tháng tuổi"
+        }
+    ],
+    "hot": [
+        {
+            "name": "Mamas & Papas Baby Snug with Tray",
+            "img_1": "https://bizweb.dktcdn.net/100/488/521/products/upload-fd8d66c32bd64ba38bb5311c5943e3f3.jpg?v=1694680856517",
+            "img_2": "",
+            "discount": "-98%",
+            "cost": 200000,
+            "old_cost": 8000000,
+            "type": "Baby Seats",
+            "id": 112033922,
+            "barcode": 473486730
+        },
+        {
+            "name": "Maclaren Toy Bmw Buggy Stroller, Silver",
+            "img_1": "https://bizweb.dktcdn.net/100/488/521/products/upload-72da426e4dce47d58ad1d34b3a5e540f.jpg?v=1694680853870",
+            "img_2": "",
+            "discount": "-73%",
+            "cost": 550000,
+            "old_cost": 2000000,
+            "type": "baby carriers",
+            "id": 956123608,
+            "barcode": 527974486
+        },
+        {
+            "name": "Little People Bath Time Fun Gift Set",
+            "img_1": "https://bizweb.dktcdn.net/100/488/521/products/upload-1c944fd6b93d482bb5d0bd94ac7c9fb4.jpg?v=1694680830503",
+            "img_2": "",
+            "discount": "-81%",
+            "cost": 1150000,
+            "old_cost": 6000000,
+            "type": "Toys",
+            "id": 683882995,
+            "barcode": 941877049
+        },
+        {
+            "name": "Link 'n Go Play Pack",
+            "img_1": "https://bizweb.dktcdn.net/100/488/521/products/upload-02e223e9f0304190b36887db9aa70f8d.jpg?v=1694680806233",
+            "img_2": "",
+            "discount": "-15%",
+            "cost": 1700000,
+            "old_cost": 2000000,
+            "type": "Clothes",
+            "id": 266791104,
+            "barcode": 808496791
+        }
+    ],
+    "bear": [
+        {
+            "id": 1,
+            "name": "Áo Vest",
+            "img": "https://bizweb.dktcdn.net/thumb/grande/100/488/521/themes/913255/assets/home_main_collection_item_image_1.png?1695187373377"
+        },
+        {
+            "id": 2,
+            "name": "Áo Lính Cứu Hoả",
+            "img": "https://bizweb.dktcdn.net/thumb/grande/100/488/521/themes/913255/assets/home_main_collection_item_image_2.png?1695187373377"
+        },
+        {
+            "id": 3,
+            "name": "Áo Bộ Đội",
+            "img": "https://bizweb.dktcdn.net/thumb/grande/100/488/521/themes/913255/assets/home_main_collection_item_image_3.png?1695187373377"
+        },
+        {
+            "id": 4,
+            "name": "Áo Tạp Vụ",
+            "img": "https://bizweb.dktcdn.net/thumb/grande/100/488/521/themes/913255/assets/home_main_collection_item_image_4.png?1695187373377"
+        },
+        {
+            "id": 5,
+            "name": "Áo Y Tá",
+            "img": "https://bizweb.dktcdn.net/thumb/grande/100/488/521/themes/913255/assets/home_main_collection_item_image_5.png?1695187373377"
+        }
+    ],
+    "sale": [
+        {
+            "name": "Gloria Wardrobe and Mirror",
+            "img_1": "https://bizweb.dktcdn.net/100/488/521/products/upload-779fa4796a3a4c549e2c30c0cadbc722.jpg?v=1694680521490",
+            "img_2": "",
+            "discount": "-92%",
+            "cost": 450000,
+            "old_cost": 6000000,
+            "type": "Toys",
+            "id": 885236078,
+            "barcode": 505267634
+        },
+        {
+            "name": "Funworld Canvas Shoes",
+            "img_1": "https://bizweb.dktcdn.net/100/488/521/products/upload-90c3b427db2e4f08a7a63dafdf837869.jpg?v=1694680498473",
+            "img_2": "https://bizweb.dktcdn.net/100/488/521/products/upload-2b87e1ee508846b0a0caadc97864ad48.jpg?v=1694680498473",
+            "discount": "-55%",
+            "cost": 1350000,
+            "old_cost": 3000000,
+            "type": "Shoes",
+            "id": 844008917,
+            "barcode": 226755672
+        },
+        {
+            "name": "Funskool Teddy",
+            "img_1": "https://bizweb.dktcdn.net/100/488/521/products/upload-47b6275e2fb640adbada9a263c15541e.jpg?v=1694680494240",
+            "img_2": "",
+            "discount": "-72%",
+            "cost": 1400000,
+            "old_cost": 5000000,
+            "type": "Toys",
+            "id": 777190101,
+            "barcode": 690828676
+        },
+        {
+            "name": "Front Tie Raised",
+            "img_1": "https://bizweb.dktcdn.net/100/488/521/products/upload-f6098cec46bd4f0c949a53a7c04075c6.jpg?v=1694680449307",
+            "img_2": "",
+            "discount": "-82%",
+            "cost": 1650000,
+            "old_cost": 9000000,
+            "type": "Toys",
+            "id": 169731778,
+            "barcode": 654501637
+        },
+        {
+            "name": "Flutter-Sleeve Geo Print Tee",
+            "img_1": "https://bizweb.dktcdn.net/100/488/521/products/upload-09868e73d10647cd91c340329b829e53.jpg?v=1694680361883",
+            "img_2": "https://bizweb.dktcdn.net/100/488/521/products/upload-b5c5baef56504d9bae17e3c6959afa96.jpg?v=1694680361883",
+            "discount": "-74%",
+            "cost": 1300000,
+            "old_cost": 5000000,
+            "type": "Clothes",
+            "id": 302896832,
+            "barcode": 418309410
+        },
+        {
+            "name": "Flowy Open-Back Shirt",
+            "img_1": "https://bizweb.dktcdn.net/100/488/521/products/upload-caa0a885f4f848c1b35667795e9183c4.jpg?v=1694680356590",
+            "img_2": "https://bizweb.dktcdn.net/100/488/521/products/upload-1300d30edf7d454eb684eff17840d78e.jpg?v=1694680356590",
+            "discount": "-74%",
+            "cost": 1300000,
+            "old_cost": 5000000,
+            "type": "Clothes",
+            "id": 295847118,
+            "barcode": 796932850
+        },
+        {
+            "name": "Flip & Surprise Caterpillar",
+            "img_1": "https://bizweb.dktcdn.net/100/488/521/products/upload-f3cb390b7dcd443d84bdcbb1d6093a7b.jpg?v=1694680243597",
+            "img_2": "",
+            "discount": "-89%",
+            "cost": 600000,
+            "old_cost": 5500000,
+            "type": "Clothes",
+            "id": 810610109,
+            "barcode": 131781179
+        },
+        {
+            "name": "Feeding Bottles",
+            "img_1": "https://bizweb.dktcdn.net/100/488/521/products/upload-4732b14209954d20adcf4ff8b0b58b78.jpg?v=1694680241707",
+            "img_2": "https://bizweb.dktcdn.net/100/488/521/products/upload-617a1c6c55b84fdeb124e1a6f250f6e5.jpg?v=1694680241707",
+            "discount": "-98%",
+            "cost": 150000,
+            "old_cost": 8500000,
+            "type": "Toys",
+            "id": 565885276,
+            "barcode": 205682435
+        },
+        {
+            "name": "Deuter Black Tour Bag",
+            "img_1": "https://bizweb.dktcdn.net/100/488/521/products/upload-50cc78d5e9144b03ac3b86a8811917cf.jpg?v=1694680216150",
+            "img_2": "https://bizweb.dktcdn.net/100/488/521/products/upload-cb22fca0867a42f9a3847aa277829607.jpg?v=1694680216150",
+            "discount": "-91%",
+            "cost": 800000,
+            "old_cost": 8500000,
+            "type": "Bag",
+            "id": 895099543,
+            "barcode": 589865891
+        }
+    ]
+}
