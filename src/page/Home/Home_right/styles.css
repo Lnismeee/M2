@@ -208,11 +208,15 @@
     .right__first {
         display: block;
     }
-    .r-f-l {
-        width: 412px;
-        height: 0px;
-    }
     .r-f-r {
+        max-width: 412px;
+        height: 0px;
+        margin-left: 0;
+    }
+    .r-f-r img:first-child {
+        display: none;
+    }
+    .r-f-l {
         display: none;
     }
     /*  */
