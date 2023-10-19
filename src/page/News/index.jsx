@@ -107,7 +107,7 @@ const News = () => {
                             <div className="box-content">
                                 <div className="box-img-container">
                                     <img
-                                        src="../src/assets/news_4.webp"
+                                        src="https://bizweb.dktcdn.net/thumb/grande/100/488/521/articles/3242819-469509-pgfx28-438-1-1-d09213ea61f44ae79c8ada2e27647776.jpg?v=1686567539883"
                                         alt="Image 1"
                                     />
                                     <div className="magnifying-glass"></div>
@@ -125,7 +125,7 @@ const News = () => {
                             <div className="box-content">
                                 <div className="box-img-container">
                                     <img
-                                        src="../src/assets/news_1.webp"
+                                        src="https://bizweb.dktcdn.net/thumb/grande/100/488/521/articles/5770445-2990168-1-1-8f803b2eeedb4ee2a707e391933e9ac9.jpg?v=1686567540437"
                                         alt="Image 2"
                                     />
                                     <div className="magnifying-glass"></div>
@@ -140,7 +140,7 @@ const News = () => {
                             <div className="box-content">
                                 <div className="box-img-container">
                                     <img
-                                        src="../src/assets/news_2.webp"
+                                        src="https://bizweb.dktcdn.net/thumb/grande/100/488/521/articles/32177694-7914155-1-1-071cf643922f4745b2c502a146dcb39a.jpg?v=1686567540380"
                                         alt="Image 3"
                                     />
                                     <div className="magnifying-glass"></div>
@@ -157,7 +157,7 @@ const News = () => {
                             <h3>BẠN CẦN TƯ VẤN?</h3>
                             <img
                                 className="new-container-image"
-                                src="./src/assets/read.webp"
+                                src="https://bizweb.dktcdn.net/thumb/grande/100/488/521/themes/913255/assets/main_blog_banner_image.jpg?1697623334994"
                                 alt="Image"
                             />
                         </div>
