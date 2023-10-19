@@ -24,7 +24,7 @@ const Contact = () => {
                 </div>
                 <div className="image">
                     <img
-                        src="src\assets\contact_1.webp"
+                        src="https://bizweb.dktcdn.net/100/488/521/themes/913255/assets/page-about-new-image-1.jpg?1697623334994"
                         alt="Contact 1"
                         style={{ maxWidth: "700px" }}
                     />
@@ -35,7 +35,7 @@ const Contact = () => {
             <div className="container2">
                 <div className="image">
                     <img
-                        src="src\assets\contact_2.webp"
+                        src="https://bizweb.dktcdn.net/100/488/521/themes/913255/assets/page-about-new-image-2.jpg?1697623334994p"
                         alt="Contact 2"
                         style={{ maxWidth: "700px" }}
                     />
