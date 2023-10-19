@@ -87,10 +87,23 @@ const Box_login = ({ loginsucces, usernow, setusernow }) => {
       return;
     }
   };
+  const checktrung = () => {
+    let check = false;
+    datausers.forEach((e) => {
+      if (e.gmail == gmail) {
+        check = true;
+      }
+    });
+    return check;
+  };
   const checkttin2 = () => {
     setTb("");
     if (mk == "" || gmail == "" || fullname == "" || name == "" || sdt == "") {
       setTb("Nhập đầy đủ thông tin");
+      return false;
+    }
+    if (mk.length < 6) {
+      setTb("Độ dài mật khẩu quá ngắn");
       return false;
     }
     if (!ValidateEmail(gmail)) {
@@ -99,6 +112,10 @@ const Box_login = ({ loginsucces, usernow, setusernow }) => {
     }
     if (!ValidateSDT(sdt)) {
       setTb("Nhập sai định dạng số điện thoại");
+      return false;
+    }
+    if (checktrung()) {
+      setTb("Gmail đã được sử dụng");
       return false;
     }
     return true;
@@ -181,7 +198,7 @@ const Box_login = ({ loginsucces, usernow, setusernow }) => {
             <label htmlFor="mk_dn">Mật khẩu*</label>
             <div className="input_log">
               <input
-                input="password"
+                type="password"
                 className="input_log1"
                 id="mk_dn"
                 value={mk}
