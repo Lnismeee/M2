@@ -13,7 +13,7 @@ const Header_center = () => {
           Trang chủ
         </NavLink>
         <NavLink to="/products" className={activeClass}>
-          Tất cả sản phẩm &#8250;
+          Tất cả sản phẩm
         </NavLink>
         <NavLink to="/news" className={activeClass}>
           Tin tức
